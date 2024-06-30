@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/ikapilsharma/orphanage-management.git
+git clone https://github.com/ikapilsharma/orphanage-management-system.git
 cd orphanage-management
 Install dependencies (if any):
 
